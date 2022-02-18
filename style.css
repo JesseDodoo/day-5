@@ -4,13 +4,15 @@
     display: flex;
     background-image: url("https://c.tenor.com/4bwJR17D-jEAAAAC/eclipse-solar-eclipse.gif");
     background-size: contain;
-    background-color: #898888;
+    /*background-color: #898888;*/
     height: 100vh;
     color: white;
     font-family: 'Lucida Grande', sans-serif;
 }
 
-
+.bg {
+  background-color: black;
+}
 
 
 .backimg {
