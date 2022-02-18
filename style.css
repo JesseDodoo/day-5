@@ -1,0 +1,97 @@
+
+
+.jumbotron {
+    display: flex;
+    background-image: url("https://c.tenor.com/4bwJR17D-jEAAAAC/eclipse-solar-eclipse.gif");
+    background-size: contain;
+    background-color: #898888;
+    height: 100vh;
+    color: white;
+    font-family: 'Lucida Grande', sans-serif;
+}
+
+
+
+
+.backimg {
+  background-image: url('https://www.samsastro.com/wp-content/uploads/2017/10/M31-NGC224-Andromeda-Galaxy-TMB-20090921.jpg');
+  background-image: center contain;
+}
+
+.bodfont {
+  font-family: 'Lucida Grande', sans-serif;
+}
+
+.moongif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: 25%;
+  
+}
+
+.textdecor {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* Jesse's styles */
+
+.page-2{
+  margin-top: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 10%;
+    font-size: 1.5em;
+    background-color: beige;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+
+header > p{
+    font-size: 1.2em
+}
+
+
+.fact1, .fact2{
+  color:white;
+    position: relative;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 30%;
+    padding: 30px;
+    line-height: 1.5em;
+}
+
+.fact1{
+    top: 228px;
+    left: 31px;
+    margin: 88px;
+}
+
+.image-1{
+    position: relative;
+    left: -426px;
+    top: -180px;
+    width: 17%;
+}
+
+.fact2{
+    float: right;
+    right: 50px;
+}
+
+.image-2{
+    position: relative;
+    width: 41%;
+    margin-left: 55%;
+    margin-top: -11%;
+    top: -67px;
+}
+
+
+/* End of Jesse's Styles */
